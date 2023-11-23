@@ -1,4 +1,6 @@
-# Curriculum (https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
+# CSE_BASES Study
+
+## Curriculum (https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
 
 ## origin source https://teachyourselfcs.com/
 
