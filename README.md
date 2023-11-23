@@ -1,8 +1,8 @@
 # CSE_BASES Study
 
-## Curriculum (https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
+## [Curriculum : origin Link](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
 
-## origin source https://teachyourselfcs.com/
+## [origin source : origin Link](https://teachyourselfcs.com/)
 
 ## defining curriculum
 1. Programming 
